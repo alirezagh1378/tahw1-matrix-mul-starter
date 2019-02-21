@@ -10,7 +10,15 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 # Assignment discription
 
 <div dir="rtl" align="right">
-تابعی مطابق با امضای تعریف شده زیر تعریف کنید تا عملیات ضرب ماتریسی به وسیله آرایه دو بعدی را پیاده سازی کند
+    
+برنامه ای بنویسید تا از کاربر مشخصات یک جدول سودوکو را وارد کند و پس از دریافت اطلاعات بررسی کند که آیا جدول داده شده شرایط جدول سودوکو معتبر را دارد یا نه.
+
+می توانید برای سادگی خودتان یک آرایه دو بعدی دستی تعریف کنید و دریافت ورودی از کاربر جزوی از فرایند تصحیح نیست.
+
+بدنه تابع داده شده را کامل کنید و بسته به نیاز خود متد های دیگری را اضافه کنید اما متد های داده شده را به هیچ شکلی تغییر ندهید. ابعاد سودوکو را 9 در 9 در نظر بگیرید.
+
+
+
 </div>
 
 
@@ -18,19 +26,12 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 ```java
 package ir.ac.kntu;
 
-public class MatrixSolution{
-
-    public static int[][] multiply(int[][] matA,int[][] matB){
-        //return null when multiplication is not possible
-
+public class SudokuChecker{
+    public static boolean isValidSolution(int[][] board){
+        //return true if it's a valid solution otherwise return false
     }
-
     public static void main(String[] args){
-        int[][] d = {{1, 2, 3, 5},{4, 5, 6, 8}};
-        int[][] c = {{1, 2, 3},{4, 5, 6},{9, 1, 3},{9, 1, 3}};
-        int[][] multiply = multiply(d, c);
-        System.out.println("multiply = " + Arrays.deepToString(multiply));
-    }
 
+    }
 }
 ```
