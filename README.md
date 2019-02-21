@@ -1,4 +1,4 @@
-# TA HW 1 - Matrix Multiplication
+# TA HW 1 - Matrix Multiplication - 50 Points
 
 [![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
 
