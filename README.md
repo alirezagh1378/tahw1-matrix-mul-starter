@@ -1,8 +1,8 @@
 # TA HW 1 - Matrix Multiplication - 50 Points
 
-[![Grader Status](YOUR_GRADER_BADGE)](YOUR_GRADER_BADGE)
+[![Grader Status](https://github.com/k-n-toosi-university-of-technology/tahw1-matrix-mul-alirezagh1378.git)](https://github.com/k-n-toosi-university-of-technology/tahw1-matrix-mul-alirezagh1378.git)
 
-YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<YOUR_STUDENT_ID>
+YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?repo=<REPO_NAME>&id=<9729153>
 
 
 
